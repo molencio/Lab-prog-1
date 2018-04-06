@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1522971462 source:d:\clase5ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"C5lib.h"
+
+1522966799 d:\clase5ej1\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1522966223 source:d:\clase5ej1\utn.c
+
+1522970813 source:d:\clase5ej1\c5lib.c
+
+1522971524 d:\clase5ej1\c5lib.h
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
